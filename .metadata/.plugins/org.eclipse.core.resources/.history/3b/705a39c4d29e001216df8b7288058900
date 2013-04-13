@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:rezepte xmlns:p="http://www.example.org/Aufgabe_3d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Aufgabe_3d Aufgabe_3d.xsd ">
+  <p:rezept anzahlPortionen="" bezeichnung="">
+    <p:zutat>
+      <p:zutatenname>p:zutatenname</p:zutatenname>
+      <p:menge>0</p:menge>
+      <p:mengeneinheit>g</p:mengeneinheit>
+    </p:zutat>
+    <p:zubereitung beschreibung="" dauer="0" schwierigkeit="simpel"/>
+  </p:rezept>
+</p:rezepte>

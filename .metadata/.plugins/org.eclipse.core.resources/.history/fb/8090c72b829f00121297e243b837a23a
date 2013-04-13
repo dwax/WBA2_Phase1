@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rezeptliste xmlns="http://www.example.org/Aufgabe_3d">
+    <rezept bezeichnung="Zitronenglasur" anzahlPortionen="1">
+        <zutatenliste>
+            <zutat zutatenname="Puderzucker" menge="1" mengeneinheit="Becher"/>
+            <zutat zutatenname="Zitronenschale, gerieben" menge="1" mengeneinheit="Tl"/>
+            <zutat zutatenname="Zitronensaft" menge="2" mengeneinheit="Tl"/>
+        </zutatenliste>
+        <zubereitung beschreibung="Zuerst vermischt man bei mittlerer Hitze den Puderzucker mit der abgeriebenen Zitronenschale und gibt dann den Zitronensaft hinzu. Alles unter ständigem Rühren erhitzen und anschließend auf Kuchen nach Wahl verteilen." dauer="10" schwierigkeit="simpel"/>
+        <kommentarliste>
+            <kommentar username="koch20" datum="2010-05-30T09:00:00" text="Cool!"/>
+            <kommentar username="dachs" datum="2013-04-07T14:52:59.384+02:00" text="cooles"/>
+        </kommentarliste>
+    </rezept>
+    <rezept bezeichnung="Quarkstuten" anzahlPortionen="1">
+        <zutatenliste>
+            <zutat zutatenname="Mehl" menge="500" mengeneinheit="g"/>
+            <zutat zutatenname="Öl" menge="5" mengeneinheit="El"/>
+            <zutat zutatenname="Quark" menge="250" mengeneinheit="g"/>
+            <zutat zutatenname="Ei(er)" menge="1"/>
+            <zutat zutatenname="Zuker" menge="100" mengeneinheit="g"/>
+            <zutat zutatenname=" Backpulver" menge="1" mengeneinheit="Pkt."/>
+            <zutat zutatenname="Milch" menge="1" mengeneinheit="Becher"/>
+        </zutatenliste>
+        <zubereitung beschreibung="Die Zutaten alle in eine Schüssel geben und zu einem Knetteig verarbeiten. Den Teig zu einem Stuten formen und auf einem Backblech (2. Schiene von unten) etwa 45 Minuten bei 190 Grad backen." dauer="10" schwierigkeit="simpel"/>
+        <kommentarliste>
+            <kommentar username="bla12" datum="2002-05-30T09:00:00" text="Gutes Rezept!"/>
+        </kommentarliste>
+    </rezept>
+</rezeptliste>

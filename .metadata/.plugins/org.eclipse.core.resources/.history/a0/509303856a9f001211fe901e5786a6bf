@@ -1,0 +1,19 @@
+package org.example.aufgabe_3d;
+
+import java.util.Scanner;
+
+public class Aufgabe_4bc {
+
+	/**
+	 * @param args
+	 */
+	private static Scanner in;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		in = new Scanner(System.in);
+		System.out.println("ejfejfesfpih");
+		int test = in.nextInt();
+
+	}
+
+}

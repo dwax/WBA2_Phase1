@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:rezept xmlns:p="http://www.example.org/Aufgabe_3d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Aufgabe_3d Aufgabe_3d.xsd ">
+  <p:bezeichnung>Gyrosauflauf</p:bezeichnung>
+  <p:zutat>
+    <p:zutatenname>Fleisch</p:zutatenname>
+    <p:menge>500</p:menge>
+    <p:mengeneinheit>g</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Zwiebeln</p:zutatenname>
+    <p:menge>2</p:menge>
+    <p:mengeneinheit>Stück</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Paprikaschoten</p:zutatenname>
+    <p:menge>250</p:menge>
+    <p:mengeneinheit>g</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Sahne</p:zutatenname>
+    <p:menge>1</p:menge>
+    <p:mengeneinheit>Becher</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Crème fraîche </p:zutatenname>
+    <p:menge>1</p:menge>
+    <p:mengeneinheit>Becher</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Maggi</p:zutatenname>
+    <p:menge>1</p:menge>
+    <p:mengeneinheit>Würfel</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Knoblauchpulver</p:zutatenname>
+    <p:menge>0</p:menge>
+    <p:mengeneinheit>evtl.</p:mengeneinheit>
+  </p:zutat>
+  <p:zutat>
+    <p:zutatenname>Mozzarella, gerieben </p:zutatenname>
+    <p:menge>1</p:menge>
+    <p:mengeneinheit>Pkt.</p:mengeneinheit>
+  </p:zutat>
+  <p:anzahlPortionen>4</p:anzahlPortionen>
+  <p:zubereitung>
+    <p:beschreibung>Gyros anbraten. Zwiebeln und Paprika zufügen und kurz mit braten. Die Sahne, die Creme fraiche und den Maggiwürfel hinzugeben, unterrühren und kurz aufkochen lassen. In eine Auflaufform geben und mit dem Käse bestreuen. Den Auflauf bei 220°C im Backofen überbacken, bis der Käse die gewünschte Bräune erreicht hat.</p:beschreibung>
+    <p:dauer>20</p:dauer>
+    <p:brennwert>0</p:brennwert>
+    <p:schwierigkeit>simpel</p:schwierigkeit>
+  </p:zubereitung>
+</p:rezept>

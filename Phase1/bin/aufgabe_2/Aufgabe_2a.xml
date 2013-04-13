@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gruppenanmeldung>
+	<Gruppenleiter id="1">
+		<Vorname>Max</Vorname>
+		<Nachname>Mustermann</Nachname>
+		<Email>max.mustermann@gmail.com</Email>
+		<Geburtstag>17.05.1990</Geburtstag>
+		<Erfahrung>Amateur</Erfahrung>
+		<Schlagzeug>nicht vorhanden</Schlagzeug>
+		<Anmerkung></Anmerkung>
+	</Gruppenleiter>
+	<Gruppenleiter id="2">
+		<Vorname>Hans</Vorname>
+		<Nachname>Mustermann</Nachname>
+		<Email>hansmustermann@hotmail.de</Email>
+		<Geburtstag>20.12.1985</Geburtstag>
+		<Erfahrung>Profi</Erfahrung>
+		<Schlagzeug>vorhanden</Schlagzeug>
+		<Anmerkung></Anmerkung>
+	</Gruppenleiter>
+</Gruppenanmeldung>

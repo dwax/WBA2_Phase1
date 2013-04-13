@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/Aufgabe_3d" xmlns:tns="http://www.example.org/Aufgabe_3d" elementFormDefault="qualified">
+
+	<xs:element name="rezept">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="bezeichnung" type="xs:string" />
+				<xs:element name="zutat">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="zutatenname" type="xs:string" />
+							<xs:element name="menge" type="integer" />
+							<xs:element name="mengeneinheit">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										 <xs:enumeration value="g"/>
+										 <xs:enumeration value="l"/>
+										 <xs:enumeration value="Tl"/>
+										 <xs:enumeration value="El"/>
+										 <xs:enumeration value="ml"/>
+										 <xs:enumeration value="Bund"/>
+										 <xs:enumeration value="Würfel"/>
+										 <xs:enumeration value="Becher"/>
+										 <xs:enumeration value="Pkt."/>
+										 <xs:enumeration value="evtl."/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</schema>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:rezeptliste xmlns:p="http://www.example.org/Aufgabe_3d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/Aufgabe_3d Aufgabe_3d.xsd ">
+  <p:rezept anzahlPortionen="1" bezeichnung="Zitronenglasur">
+    <p:zutatenliste>
+      <p:zutat zutatenname="Puderzucker" menge="1" mengeneinheit="Becher"/>
+      <p:zutat zutatenname="Zitronenschale, gerieben" menge="1" mengeneinheit="Tl" />
+      <p:zutat zutatenname="Zitronensaft" menge="2" mengeneinheit="Tl"/>
+    </p:zutatenliste>
+    <p:zubereitung beschreibung="Zuerst vermischt man bei mittlerer Hitze den Puderzucker mit der abgeriebenen Zitronenschale und gibt dann den Zitronensaft hinzu. Alles unter ständigem Rühren erhitzen und anschließend auf Kuchen nach Wahl verteilen." dauer="10" schwierigkeit="simpel" />
+  </p:rezept>
+  <p:rezept anzahlPortionen="1" bezeichnung="Quarkstuten">
+  	<p:zutatenliste>
+  		<p:zutat zutatenname="Mehl" menge="500" mengeneinheit="g"/>
+  		<p:zutat zutatenname="Öl" menge="5" mengeneinheit="El"/>
+  		<p:zutat zutatenname="Quark" menge="250" mengeneinheit="g"/>
+  		<p:zutat zutatenname="Ei(er)" menge="1"/>
+  		<p:zutat zutatenname="Zuker" menge="100" mengeneinheit="g"/>
+  		<p:zutat zutatenname=" Backpulver" menge="1" mengeneinheit="Pkt."/>
+  		<p:zutat zutatenname="Milch" menge="1" mengeneinheit="Becher"/>
+  	</p:zutatenliste>
+  </p:rezept>
+</p:rezeptliste>

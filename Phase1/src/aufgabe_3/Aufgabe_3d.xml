@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rezeptliste xmlns="http://www.example.org/Aufgabe_3d">
+    <rezept bezeichnung="Zitronenglasur" id="1">
+        <zutatenliste anzahlPortionen="1">
+            <zutat zutatenname="Puderzucker" menge="1" mengeneinheit="Becher"/>
+            <zutat zutatenname="Zitronenschale, gerieben" menge="1" mengeneinheit="Tl"/>
+            <zutat zutatenname="Zitronensaft" menge="2" mengeneinheit="Tl"/>
+        </zutatenliste>
+        <zubereitung dauer="10" schwierigkeit="simpel">
+            <beschreibung>beschreibung="Zuerst vermischt man bei mittlerer Hitze den Puderzucker mit der abgeriebenen..</beschreibung>
+        </zubereitung>
+        <kommentarliste>
+            <kommentar id="1">
+                <username>user12</username>
+                <datum>2002-05-30T09:00:00</datum>
+                <text>seht gutes Rezept!</text>
+            </kommentar>
+        </kommentarliste>
+    </rezept>
+    <rezept bezeichnung="Quarkstuten" id="2">
+        <zutatenliste anzahlPortionen="1">
+            <zutat zutatenname="Mehl" menge="500" mengeneinheit="g"/>
+            <zutat zutatenname="Öl" menge="5" mengeneinheit="El"/>
+            <zutat zutatenname="Quark" menge="250" mengeneinheit="g"/>
+            <zutat zutatenname="Ei(er)" menge="1"/>
+            <zutat zutatenname="Zuker" menge="100" mengeneinheit="g"/>
+            <zutat zutatenname=" Backpulver" menge="1" mengeneinheit="Pkt."/>
+            <zutat zutatenname="Milch" menge="1" mengeneinheit="Becher"/>
+        </zutatenliste>
+        <zubereitung dauer="10" schwierigkeit="simpel">
+            <beschreibung>Die Zutaten alle in eine Schüssel geben und zu einem Knetteig verarbeiten...</beschreibung>
+        </zubereitung>
+        <kommentarliste>
+            <kommentar id="1">
+                <username>user1</username>
+                <datum>2002-07-30T12:00:00</datum>
+                <text>Cooles Rezept!</text>
+            </kommentar>
+        </kommentarliste>
+    </rezept>
+</rezeptliste>

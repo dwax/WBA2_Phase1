@@ -1,0 +1,11 @@
+{
+Gruppenleiter": [
+		{ 	
+		"id":"1", "vorname": "Max", "nachname":"Mustermann", "email":"max.mustermann@gmail.com", 
+		"Geburtsdatum":"17.05.1990", "Erfahrung":"Amateur", "Schlagzeug":"nicht vorhanden", 
+		"Anmerkung":"" }, 
+		{"id":"2",  "vorname": "Hans", "nachname":"Mustermann", "email":"hansmustermann@hotmail.de", 
+		"Geburtsdatum":"20.12.1985", "Erfahrung":"Profi", "Schlagzeug":"vorhanden", 
+		"Anmerkung":"" }
+	]
+}
